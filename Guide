@@ -1,0 +1,19 @@
+Dynamic Car Rental System in Java. In this project we have create structure classes,smooth Car rental interactions, and seamless prices calculation. This user-friendly console interface is created using core Object-Oriented Programming (OOP) principles, fostering the development of an effective and well-organized software system.
+
+Step 1: Project Setup
+Start by setting up a new Java project in your preferred Integrated Development Environment (IDE). Ensure that you have Java installed on your system.
+
+Step 2: Define the Car Class
+Create a 'Car' class to represent individual vehicles. Include attributes such as make, model, year, and rental status. Implement appropriate constructors and methods to set and retrieve information about each car.
+
+Step 3: Implement the CarRentalSystem Class
+Create a 'CarRentalSystem' class that manages the collection of cars, rental transactions, and price calculations. This class will serve as the core of our car rental system.
+
+Step 4: Develop a User Interface
+Build a simple console-based user interface to interact with the CarRentalSystem. Utilize the Scanner class to take user input and display relevant information.
+
+Step 5: Refine Rental Transactions and Pricing Logic
+Inside the 'CarRentalSystem' class, refine the methods responsible for handling rental transactions and calculating prices. Consider factors such as rental duration, additional services, and any discounts.
+
+Step 6: Test Your Car Rental System
+Create test cases within your 'CarRentalApp' to ensure that all functionalities work as expected. Validate the accurate calculation of prices and proper handling of rental transactions.
